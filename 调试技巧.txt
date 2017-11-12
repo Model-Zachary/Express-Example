@@ -1,0 +1,7 @@
+返回错误日志
+
+set debug=express:* node server.js
+
+之后运行 node server.js 就会有很多提示 如果只是想提示 router 的 就把上面的 * 改成这个router
+
+注意 这个用自带的cmd命令面板

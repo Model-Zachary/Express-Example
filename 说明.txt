@@ -1,0 +1,11 @@
+首先 需要安装 一下 express  npm install express
+
+
+body-parser 这个 需要npm 安装一下 解析post 的插件  npm install body-parser
+
+express-generator 初始化项目目录 快速生成项目骨架 npm install express-generator -g  
+然后执行 express 目录名 最后会自动生成目录 之后页面提示下载json文件里面的依赖包
+
+assets 静态文件夹
+
+
